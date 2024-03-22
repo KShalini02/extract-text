@@ -1,4 +1,5 @@
 **Image Text Extractor**
+
 This is a Python application that allows users to extract text from images using Optical Character Recognition (OCR) technology.
 
 **Features**
@@ -24,13 +25,13 @@ Before running the application, ensure you have the following dependencies insta
 
 **You can install the dependencies using pip:**
 
-•	pip install opencv-python 
+•**pip install opencv-python** 
 
-•	pip install pytesseract 
+•**pip install pytesseract** 
 
-•	pip install Pillow
+•**pip install Pillow**
 
-**Steps to run**: 
+**Steps to run:**
 
 •	Click on the "Open Image" button to select an image file.
 
