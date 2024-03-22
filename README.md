@@ -13,6 +13,7 @@ This is a Python application that allows users to extract text from images using
 •	Display the extracted text and copy it to the clipboard.
 
 **Prerequisites:**
+
 Before running the application, ensure you have the following dependencies installed:
 
 •	Python 3.x
@@ -23,7 +24,7 @@ Before running the application, ensure you have the following dependencies insta
 
 •	Pillow (PIL)
 
-**You can install the dependencies using pip:**
+You can install the dependencies using pip:
 
 •**pip install opencv-python** 
 
