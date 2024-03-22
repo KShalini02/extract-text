@@ -26,11 +26,11 @@ Before running the application, ensure you have the following dependencies insta
 
 You can install the dependencies using pip:
 
-       **pip install opencv-python** 
+         pip install opencv-python 
 
-       **pip install pytesseract** 
+         pip install pytesseract 
 
-       **pip install Pillow**
+         pip install Pillow
 
 **Steps to run:**
 
